@@ -6,9 +6,9 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>Hi am a filter bot my master is @Kuttu_thomas....😉</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<b>You can't add me to group but you can deploy me 😘😘😘</b>
 
 <b>Watch the video below to build an Pro Autofilter bot like me...</b>
 
@@ -17,7 +17,7 @@ class Translation(object):
 <b>Press /help to know about available commands🤪</b>"""    
     
     HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
+<b>🤔How To Use Me!🤔?</b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
@@ -46,18 +46,18 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></b>
+<b><a href="https://t.me/Kuttu_thomas">Kuttu_thomas</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
     
 <b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
 
-<b>➥ 👨‍💻Editor</b> : <b>@Mrk_YT</b>
+<b>➥ 👨‍💻Editor</b> : <b>@Kuttu_thomas</b>
 
 <b>➥ 🗣️Language</b> : <b>Python3</b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://github.com/Kuttu22">💥Click Me</a></b>
 """
